@@ -784,5 +784,753 @@
             "liquidationIncentiveFactor": "1043841336116910229"
         }
     ],
-    "8453": []
+    "8453": [
+        {
+            "collateralToken": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+            "loanToken": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+            "oracle": "0xc866447b4C254E2029f1bfB700F5AA43ce27b1BE",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xf9ed1dba3b6ba1ede10e2115a9554e9c52091c9f1b1af21f9e0fecc855ee74bf",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+            "oracle": "0xa54122f0E0766258377Ffe732e454A3248f454F4",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xf7e40290f8ca1d5848b3c129502599aa0f0602eb5f5235218797a34242719561",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
+            "oracle": "0xc3Fa71D77d80f671F366DAA6812C8bD6C7749cEc",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xf761e909ee2f87f118e36b7efb42c5915752a6d39263eec0c000c15d0ab7f489",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x1BAaB21821c6468f8aee73ee60Fd8Fdc39c0C973",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0xf24417ee06adc0b0836cf0dbec3ba56c1059f62f53a55990a38356d42fa75fa2",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+            "oracle": "0xA479f84993855b6cA54Ec1fDD65D5a82B75Ea48f",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xefb576606581c5ac9f731d80cb453519d06776fdc1de51d6230d180d74890c3b",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x8370D60541403B5Cd42966D6a7d6d1239bd50ed1",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xe73d71cacb1a11ce1033966787e21b85573b8b8a3936bbd7d83b2546a1077c26",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x96F1485DAf396c2ab7e53DC76d7B330143Cb2269",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0xe63d3f30d872e49e86cf06b2ffab5aa016f26095e560cb8d6486f9a5f774631e",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xaE10cbdAa587646246c8253E4532A002EE4fa7A4",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0xe3c4d4d0e214fdc52635d7f9b2f7b3b0081771ae2efeb3cb5aae26009f34f7a7",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0x9c0e042d65a2e1fF31aC83f404E5Cb79F452c337",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x5110A038F9995ccd12a75871095Ca47Cd4b6e9E9",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0xe0a6ea61ee79c0ea05268064525538b8290139b60b972fc83c5d5d26cec7cc89",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+            "oracle": "0xFd00101be2ac98Af7AB795646a57E7B2372E8F29",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xdfd701f0e53c7281432a11743408cc52a6cf27761e7c70829318a0213a61b1b2",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x237a202192Ea0fDBC272198115ddf09cA33AebE2",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0xdf6aa0df4eb647966018f324db97aea09d2a7dde0d3c0a72115e8b20d58ea81f",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x09ECeE1Ab6f37a3D8D01f93A622b7A3021A5D91F",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xdf13c46bf7bd41597f27e32ae9c306eb63859c134073cb81c796ff20b520c7cf",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+            "oracle": "0x1F83f671b5d4eD169985EAbb01E27A89C49cFB73",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xde1979b67c815863afd1105cae097ecb71b05b0978bc1605d0a58a25231d924f",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x05f73c9910806EedE92C83DEb3f805b71C6098f2",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0xdc69cf2caae7b7d1783fb5a9576dc875888afad17ab3d1a3fc102f741441c165",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x4756c26E01E61c7c2F86b10f4316e179db8F9425",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xdba352d93a64b17c71104cbddc6aef85cd432322a1446b5b65163cbbc615cd0c",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x7E1136C04372874cca9C3C9a2DbC461E3858b228",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xdb0bc9f10a174f29a345c5f30a719933f71ccea7a2a75a632a281929bba1b535",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x96F1485DAf396c2ab7e53DC76d7B330143Cb2269",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "625000000000000000",
+            "id": "0xdaa04f6819210b11fe4e3b65300c725c32e55755e3598671559b9ae3bac453d7",
+            "liquidationIncentiveFactor": "1126760563380281690"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xD7E2307BaFb6e8Ee916C54A50D938161C0C9ceC3",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0xd75387f30c983be0aec58b03b51cca52337b496e38cf4effbe995531bf34901c",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+            "oracle": "0xa79e9EC3458fEd729E7A0A1A1573e6a29E875d5E",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xce89aeb081d719cd35cb1aafb31239c4dfd9c017b2fec26fc2e9a443461e9aea",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xDD629E5241CbC5919847783e6C96B2De4754e438",
+            "loanToken": "0x59aaF835D34b1E3dF2170e4872B785f11E2a964b",
+            "oracle": "0xbd8F0F1ae3448d9dE2706afc1f7B474f28F542eA",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "965000000000000000",
+            "id": "0xca2e6f878e273f6587276b44470467f94175e92840ad0d7231e9deb64c190591",
+            "liquidationIncentiveFactor": "1010611419909044972"
+        },
+        {
+            "collateralToken": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "loanToken": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+            "oracle": "0x2dD12a50b4f60e09Ab1b6B42fBcD241AEf36C78e",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xc9658cac13a9b9b5c1ebaa8ce19c735283cc761ff528d149a7221047bb7fab45",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x451B6e60Cea6EF4614f73f9BC7e5039E8039eF20",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0xc338cc2dc3f6a25bace40a920eea39ff27f184899def6bda478e27e591e5cef2",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+            "oracle": "0x06aE266A252E2ee96A4c05cFDa8163ED94379a5a",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xb95dd880d553f5d874534d66eb337a4811608331768c2b208440dfe0e6d901fa",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+            "oracle": "0xc3Fa71D77d80f671F366DAA6812C8bD6C7749cEc",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xb5d424e4af49244b074790f1f2dc9c20df948ce291fc6bcc6b59149ecf91196d",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x32B923ff5C9e20dc5dF15bFA4516447D66B6D666",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "965000000000000000",
+            "id": "0xaf9d03bf28fdf54be154e4f307e2e6ab8a6c182e97d6fc227c2fdf26f89dbc22",
+            "liquidationIncentiveFactor": "1010611419909044972"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x4A11590e5326138B514E08A9B52202D42077Ca65",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "965000000000000000",
+            "id": "0xade6749e981ae94420956cc22c299054e05ac3564cc196bf62f4c0924c03bfdf",
+            "liquidationIncentiveFactor": "1010611419909044972"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+            "oracle": "0x308b4C07e4FD4677F8d710660027d6D03845Cb83",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xabba004839c8ed6bd6f9b7ba61c7e6c4ae970530a6c4852d8f1f3aeed50888cb",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x5d746848005507DA0b1717C137A10C30AD9ee307",
+            "loanToken": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "oracle": "0x2F8386B6ab372FaF846ac4FCbA5142375B7fee50",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0xaa5b2464e10b40d9b9642337987eaee5e91ed4003da62c77d7ee2edfe910188e",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0x4200000000000000000000000000000000000006",
+            "loanToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+            "oracle": "0xE1bb8E5b4930eC9FeC7f7943FCF6227649F14B37",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xa9b5142fa687a24c275faf731f13b52faa9873252bb4e1cb6077aa1f412edb0b",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x9B8Df6E244526ab5F6e6400d331DB28C8fdDdb55",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xcA73BdD1840A2Ccd8F3E8CDEa99ac3182e7fADbA",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0xa60e9b888f343351dece4df8251abe5858fc5db96e8624d614a6500c3a3085ea",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x9DBcd79e1f47D95DE6F211bFB610f082Fc584406",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0xa4e2843486610e6851f4e0a8fcdee819958598c71c7e99b0315904ccf162ddc3",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0x2615a94df961278DcbC41Fb0a54fEc5f10a693aE",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x81C730EB0FcC1a7270D0F634026DA24bCD358181",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0xa426ca680bd5a7dc0f95942ba876a7df399cdf8149f798bcc4e94f03e35d08fa",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "oracle": "0x51f673AEe27BeD2d02eEeDda0F59f4813D1cB008",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "625000000000000000",
+            "id": "0xa15c6f1884276e208199ea5392bf8cce7ed02dceaef21a9bad35fbecc4de99e9",
+            "liquidationIncentiveFactor": "1126760563380281690"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x957e76d8f2D3ab0B4f342cd5f4b03A6f6eF2ce5F",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0xa066f3893b780833699043f824e5bb88b8df039886f524f62b9a1ac83cb7f1f0",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xeeE7aF832440884d2b693B4193FA2ec26A48C7d3",
+            "loanToken": "0x59aaF835D34b1E3dF2170e4872B785f11E2a964b",
+            "oracle": "0xF19A661db65bF623206e8341a6Eb5F8960AdFb48",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "965000000000000000",
+            "id": "0x9cc8439780168e725db427fa130606f2c8ad0b78c7dbda316a80ad1f32685062",
+            "liquidationIncentiveFactor": "1010611419909044972"
+        },
+        {
+            "collateralToken": "0x5d746848005507DA0b1717C137A10C30AD9ee307",
+            "loanToken": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "oracle": "0x421722ca925A03E7896084fAF8B397E95ff7A199",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0x9a697eb760dd12aaea23699c96ea2ebbfe48b7af64138d92c4d232b9ed380024",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x6cB45d19700ee83558C06A29D3E57143b71c6C9A",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0x96d3ac6b4cf992e8bc3dd0855e0c84c18c34a6880f7e005e74c40096a82e0072",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x663BECd10daE6C4A3Dcd89F1d76c1174199639B9",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x9103c3b4e834476c9a62ea009ba2c884ee42e94e6e314a26f04d312434191836",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x53c8041b2eb7291f7C1B9729DA781C6f04baeeAd",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "385000000000000000",
+            "id": "0x8e1a07763061c6b9fe883ec888833674819614f5cab86af7558660e49c1942d7",
+            "liquidationIncentiveFactor": "1150000000000000000"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xEdfd893bbc1230321Ab6d2a8e491a9f7E61Fc3c0",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x87ff0aad672898c24411f98555f958e232c048f41e6d3f2059d26c13fad07563",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x4200000000000000000000000000000000000006",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xFEa2D58cEfCb9fcb597723c6bAE66fFE4193aFE4",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x8793cf302b8ffd655ab97bd1c695dbd967807e8367a65cb2f4edaf1380ba1bda",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xcca88a97dE6700Bb5DAdf4082Cf35A55F383AF05",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0x86021ffe2f778ed8aacecdf3dae2cdef77dbfa5e133b018cca16c52ceab58996",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xB03855Ad5AFD6B8db8091DD5551CAC4ed621d9E6",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0x84662b4f95b85d6b082b68d32cf71bb565b3f22f216a65509cc2ede7dccdfe8c",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0x8c213ee79581Ff4984583C6a801e5263418C4b86",
+            "loanToken": "0x59aaF835D34b1E3dF2170e4872B785f11E2a964b",
+            "oracle": "0x6175DD53A33593B49111466cCE4B4DBBfd565694",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "980000000000000000",
+            "id": "0x83262d91702f90d9edf6c737ceb46e59a2bcfc7ba856e1e8448b7824f83a07e3",
+            "liquidationIncentiveFactor": "1006036217303822937"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+            "oracle": "0x8C87DbD7A0c647A4291592Bc2994dbF95880fE2F",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x7fc498ddcb7707d6f85f6dc81f61edb6dc8d7f1b47a83b55808904790564929a",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x8255593A4d01623BCA9CD882ddFeb723586f412D",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "965000000000000000",
+            "id": "0x7fbf113321c898cbcff456160fe8f32b5507df1eaa611ab0b3330fc90d7f18ce",
+            "liquidationIncentiveFactor": "1010611419909044972"
+        },
+        {
+            "collateralToken": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xD41310aCF5fA54CDd1970155ac32D708B376Dff6",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0x7f90d72667171d72d10d62b5828d6a5ef7254b1e33718fe0c1f7dcf56dd1edc7",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xcE629400c6AEdb64f087CAC40Ae6a382AEEef490",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0x78d11c03944e0dc298398f0545dc8195ad201a18b0388cb8058b1bcb89440971",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0x4200000000000000000000000000000000000006",
+            "loanToken": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+            "oracle": "0x951095C09f524BC183408f0001fc91458f61b497",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x738a72906ee7a6034458409dc185d4e40a5c64e93731eca818c386ba5e7d474d",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x4200000000000000000000000000000000000006",
+            "loanToken": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "oracle": "0xDA3f83C1Be11a03D3649bcdf550d4786c197F91D",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "625000000000000000",
+            "id": "0x718930c5327b0bece97a293c1f8e91c1505bea97e483a7a9dbc9bca4d559a848",
+            "liquidationIncentiveFactor": "1126760563380281690"
+        },
+        {
+            "collateralToken": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x2d3d5024E7Fd8b77E0Cc5539d25106942cDe346e",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "965000000000000000",
+            "id": "0x6e0f34fc2f6de8c168f8f7abc875efb7b19aa97cb6a9288334d8285f9b62e6e5",
+            "liquidationIncentiveFactor": "1010611419909044972"
+        },
+        {
+            "collateralToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "loanToken": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "oracle": "0x30f505E85c95ad83B019346122907e5B81AAE355",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "625000000000000000",
+            "id": "0x6bac0f6c8b598a04e839a3fc048212291909c40181ee7a0da942ca5c5203a4b1",
+            "liquidationIncentiveFactor": "1126760563380281690"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xaE10cbdAa587646246c8253E4532A002EE4fa7A4",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "965000000000000000",
+            "id": "0x6aa81f51dfc955df598e18006deae56ce907ac02b0b5358705f1a28fcea23cc0",
+            "liquidationIncentiveFactor": "1010611419909044972"
+        },
+        {
+            "collateralToken": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xaacbD2BbCA7927F772145f99EC942024Ddd0FAB0",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0x6a331b22b56c9c0ee32a1a7d6f852d2c682ea8b27a1b0f99a9c484a37a951eb7",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "loanToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+            "oracle": "0xA857411CB2231a6A87a3bEF987a4cED8A067d799",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x67ebd84b2fb39e3bc5a13d97e4c07abe1ea617e40654826e9abce252e95f049e",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xB03855Ad5AFD6B8db8091DD5551CAC4ed621d9E6",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "965000000000000000",
+            "id": "0x6600aae6c56d242fa6ba68bd527aff1a146e77813074413186828fd3f1cdca91",
+            "liquidationIncentiveFactor": "1010611419909044972"
+        },
+        {
+            "collateralToken": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+            "loanToken": "0x7Ba6F01772924a82D9626c126347A28299E98c98",
+            "oracle": "0x28C964c985fe84736fAdc7Cf0bBd58B54bc7CF93",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0x5fda67e2274d50fb63955db09382daf24270ae32f2924d31039fec3c50cbfbe4",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x10b95702a0ce895972C91e432C4f7E19811D320E",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0x5dffffc7d75dc5abfa8dbe6fad9cbdadf6680cbe1428bafe661497520c84a94c",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x6e49a6E8acE74629b02F54c15cb933535808f114",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0x5d96564285fc3830f51fe495f88c29cc1232fbca61ca8b6edc25bff921efdef2",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
+            "loanToken": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+            "oracle": "0x8Fd7D211f1d6870aF2a328e23a0E563B09e13B39",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x592517a07d8bad6e0467661583d3c15a1fee06b7b7506ac14dba250568f67b4c",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xF9022589b3a33ddb3e4F5d0A2FBf3e028625c654",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x58bf7ed35b5d213336a68a5a42dff58f03ceaf417edaad0fc53e046f1742e20e",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0x6E877Ff82A5ED6cB4f4789c27D9F9B1d54388e4F",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x52a2a376586d0775e3e80621facc464f6e96d81c8cb70fd461527dde195a079f",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+            "oracle": "0xEddd2837f964c06aC45bd22f0608990Bb95CB645",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "625000000000000000",
+            "id": "0x4ef78b768698d176833bb61682e01a0752a8b0b8da6718dc4b7059e80ddab13d",
+            "liquidationIncentiveFactor": "1126760563380281690"
+        },
+        {
+            "collateralToken": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+            "loanToken": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "oracle": "0xDddc41f683C26Dcb8fE5f71De1b348Ce32e1bEe2",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0x4944a1169bc07b441473b830308ffe5bb535c10a9f824e33988b60738120c48e",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0x1C2757c1FeF1038428b5bEF062495ce94BBe92b2",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xc8b785c7524E79cF876f18A9035Fc778A40d3bc9",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x45f3b5688e7ba25071f78d1ce51d1b893faa3c86897b12204cdff3af6b3611f8",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+            "oracle": "0x3bdc48CDf69e8ac734F8165F6F17B78d6F83fED2",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x4021eef32a72cd1c2bbf9203526bf17d10785de636b00cb1aaa6ca22ce1d1575",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x04C0599Ae5A44757c0af6F9eC3b93da8976c150A",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xfb3ba172665D5953516821d05F7Db8A9D1B65355",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0x3fa37d9cc9922c120972c89ae0da86843e7e51c0dd04668e6fac3e7cd1ada1d3",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0xD09048c8B568Dbf5f189302beA26c9edABFC4858",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x3b3769cfca57be2eaed03fcc5299c25691b77781a1e124e7a8d520eb9a7eabb5",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
+            "loanToken": "0xCfA3Ef56d303AE4fAabA0592388F19d7C3399FB4",
+            "oracle": "0xD93F135Cbe98338bD8b7cA043AAD8FB1d86ACAEE",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x3a5bdf0be8d820c1303654b078b14f8fc6d715efaeca56cec150b934bdcbff31",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x4A11590e5326138B514E08A9B52202D42077Ca65",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0x3a4048c64ba1b375330d376b1ce40e4047d03b47ab4d48af484edec9fec801ba",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0x4200000000000000000000000000000000000006",
+            "loanToken": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+            "oracle": "0xD63F387882A0134c300e56a3d53070DD5f2a4Cc1",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x395ec7a4fbbc91bb94c313d50cc95ee7e572ba5b85065a7168022cd4de464e1b",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+            "loanToken": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+            "oracle": "0x9Ae0E86e88AEE94B700240eBE0BD17D969BAD0EA",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0x30767836635facec1282e6ef4a5981406ed4e72727b3a63a3a72c74e8279a8d7",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0xEDfa23602D0EC14714057867A78d01e94176BEA0",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x55E6DE626D8b937782F08C8D3d9e54e340a78D0e",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0x214c2bf3c899c913efda9c4a49adff23f77bbc2dc525af7c05be7ec93f32d561",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xb40d93F44411D8C09aD17d7F88195eF9b05cCD96",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x1c21c59df9db44bf6f645d854ee710a8ca17b479451447e9f56758aee10a2fad",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x1C2757c1FeF1038428b5bEF062495ce94BBe92b2",
+            "loanToken": "0xC0D3700000987C99b3C9009069E4f8413fD22330",
+            "oracle": "0x8c31E247E1E7f343D45C2047f170070029e511EA",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x1c0b7ef209fb81f0dc49e84de46b988aa23c083449f6abc932f712439cf1fe26",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x4200000000000000000000000000000000000006",
+            "loanToken": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
+            "oracle": "0x4Eb7916682F59E25F824d8CE2a8F2318319296F6",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x1791920d6bab15c5f529d278b72aecb79c52ceed412ded44526d7198227e652e",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x7FcD174E80f264448ebeE8c88a7C4476AAF58Ea6",
+            "loanToken": "0x4200000000000000000000000000000000000006",
+            "oracle": "0x28C964c985fe84736fAdc7Cf0bBd58B54bc7CF93",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "915000000000000000",
+            "id": "0x144bf18d6bf4c59602548a825034f73bf1d20177fc5f975fc69d5a5eba929b45",
+            "liquidationIncentiveFactor": "1026167265264238070"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xD7A1abA119a236Fea5BBC5cAC6836465cbe9289A",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x13c42741a359ac4a8aa8287d2be109dcf28344484f91185f9a79bd5a805a55ae",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x5d746848005507DA0b1717C137A10C30AD9ee307",
+            "loanToken": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+            "oracle": "0x421722ca925A03E7896084fAF8B397E95ff7A199",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "945000000000000000",
+            "id": "0x12c37bd01e0050e15e85e37b6bfd9a9bc357e7881a4589b6873f94512af1ce66",
+            "liquidationIncentiveFactor": "1016776817488561260"
+        },
+        {
+            "collateralToken": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452",
+            "loanToken": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
+            "oracle": "0x040ba460Ed355833a0693348421C7f1fd831D0c7",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x0b3bdf8627442f43607716b9e20475500fd62cb91bbb2c16c711e7c31038beb8",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+            "loanToken": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "oracle": "0xC9E90D1a6e769a846bcB332EA900d078E2F967B3",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "770000000000000000",
+            "id": "0x026ecee9b3a8d0ce979837333349cfc2075a2af6cd9b41c1c1d9fa16c44e54c5",
+            "liquidationIncentiveFactor": "1074113856068743286"
+        },
+        {
+            "collateralToken": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+            "loanToken": "0x60a3E35Cc302bFA44Cb288Bc5a4F316Fdb1adb42",
+            "oracle": "0x4ec7eD23F76A8F7C07a045745B501e7d903a903e",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x0103cbcd14c690f68a91ec7c84607153311e9954c94ac6eac06c9462db3fabb6",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        },
+        {
+            "collateralToken": "0x0022228a2cc5E7eF0274A7Baa600d44da5aB5776",
+            "loanToken": "0xA61BeB4A3d02decb01039e378237032B351125B4",
+            "oracle": "0x32B898e98033CA12859921618896764299661C10",
+            "irm": "0x46415998764C29aB2a25CbeA6254146D50D22687",
+            "lltv": "860000000000000000",
+            "id": "0x00f00245cf0061f5a75b0ed737dce5a90e67e69f7a4649e7c2badd4e641958e4",
+            "liquidationIncentiveFactor": "1043841336116910229"
+        }
+    ]
 }

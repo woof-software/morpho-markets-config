@@ -25,7 +25,7 @@ export const fetchMarketsWithParams = async (chains) => {
   }
 
   for (const chainId of chains) {
-    const provider = getProvider()
+    const provider = getProvider(chainId)
     const ids = marketIds[chainId]
     const params = await Promise.all(ids.map(id => fetchMarketParams(id, { provider }, { chainId })))
     marketWithParams[chainId] = params.filter(param => param.lltv !== 0n)
