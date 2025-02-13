@@ -13,6 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@layerzerolabs/lz-v2-utilities": "^3.0.67",
     "@morpho-org/blue-sdk": "^2.3.1",
     "@morpho-org/blue-sdk-ethers": "^2.2.2",
     "@morpho-org/liquidation-sdk-viem": "^2.3.1",
